@@ -1,4 +1,4 @@
-#Design Pattern Strategy
+# Design Pattern Strategy
 
 ### O padrão Strategy sugere que você pegue uma classe que faz algo específico de várias maneiras diferentes e extraia todos esses algoritmos em classes separadas chamadas de estratégias.
 
