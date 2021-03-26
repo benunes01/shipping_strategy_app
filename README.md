@@ -41,4 +41,4 @@
  
  ### libs
  
- faker -> Usado para criar o nome dos pedidos de forma randomica
+ faker -> Usado para criar o nome dos pedidos de forma aleatória
